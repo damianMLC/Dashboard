@@ -1,0 +1,5 @@
+streamlit
+yfinance
+matplotlib
+pandas
+TERMINAL : "pip install streamlit yfinance matplotlib pandas"
