@@ -1,12 +1,23 @@
-# Dashboard
-Dashboard des actions des decompanies canadiennes
+# anadian Stock Dashboard
 
-Paste the code in VS code
+A real-time financial dashboard built with Python to analyze Canadian stocks.
 
-Copy path of code(left click on it)
+## Features
+- Real-time stock price data
+- Buy/Sell signals using Moving Averages (MA50/MA200)
+- Returns and volatility calculations
+- Interactive price charts
 
-Open terminal
+## Technologies
+- Python
+- Streamlit
+- yfinance
+- Pandas
+- Matplotlib
 
-Type "cd" and paste path but delete the file name at the end 
+## How to run
+pip install -r requirements.txt
+streamlit run analyse.py
 
-Paste "streamlit run analyse.py"
+
+
