@@ -1,4 +1,4 @@
-# anadian Stock Dashboard
+# Canadian Stock Dashboard
 
 A real-time financial dashboard built with Python to analyze Canadian stocks.
 
