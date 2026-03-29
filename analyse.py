@@ -50,7 +50,7 @@ if len(data) > 0 and len(data_2) > 0:
     data_2['MA200'] = data_2['Close'].rolling(window=200).mean()
 
     if float(data_2['MA50'].iloc[-1]) > float(data_2['MA200'].iloc[-1]):
-        signal_2 = ":)ACHAT"
+        signal_2 = ":) ACHAT"
     else:
         signal_2 = ":( VENTE"
 
